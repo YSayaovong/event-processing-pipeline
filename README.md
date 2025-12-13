@@ -1,1 +1,1 @@
-# incremental-production-etl
+# event-processing-pipeline
