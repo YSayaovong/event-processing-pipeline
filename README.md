@@ -160,22 +160,10 @@ It reflects how real-world data pipelines are designed and operated at a foundat
 - CI pipeline (linting, tests, pipeline execution)
 - Scheduled execution (cron / task scheduler)
 
-### Phase 5 — Platform Integration (Optional)
+### Phase 5 — Platform Integration
 - Orchestration with Airflow or Dagster
 - Metrics export for monitoring tools
 - Infrastructure-as-code
 - Secrets management
 
 ---
-
-## Why This Project
-
-This project focuses on **doing fewer things correctly**, rather than many things superficially.
-
-It demonstrates:
-- real ETL design decisions
-- operational thinking
-- resilience to failure
-- production-grade database usage
-
-The goal is not to showcase tools, but to show **how data systems are actually built and operated**.
